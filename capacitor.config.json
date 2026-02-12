@@ -1,0 +1,6 @@
+{
+    "appId": "com.stjude.churchfund",
+    "appName": "Church Fund",
+    "webDir": "dist",
+    "bundledWebRuntime": false
+}
